@@ -1,0 +1,140 @@
+.color-1{
+    color: #2B2D42;
+}
+
+.color-2{
+    color: #EF233C;
+}
+
+.color-3{
+    color: #fff;
+}
+
+.color-back-1{
+    background-color: #2B2D42;
+}
+
+.color-back-2{
+    background-color: #EF233C;
+}
+
+.color-back-3{
+    background-color: #fff;
+}
+
+.border-color{
+    border-top: 1px solid #2B2D42;
+}
+
+.border-color-1{
+    border-top: 1px solid #EF233C;
+}
+
+.border-color-2{
+    border-top: 1px solid #fff;
+}
+
+.btn-color{
+    background-color: #2B2D42;
+    color: #fff;
+    border-color: #2B2D42;
+}
+
+.btn-color:hover{
+    background-color: #fff;
+    border-color: #fff;
+    color: #2B2D42;
+}
+
+.section-color{
+    background-color: #EDF2F4;
+}
+
+.hr-color{
+    border-color: #2B2D42;
+}
+
+.login-head{
+    color: #fff;
+    font-size: 20px;
+    font-weight: normal;
+    padding: 50px 0;
+    text-align: center;
+    text-transform: uppercase;
+    background: #EF233C;
+    border-top: 12px;
+    border-bottom: 0px;
+}
+
+.login-form{
+    border-radius: 0px;
+}
+
+.option{
+    border: 2px solid #fff;
+}
+
+.option:hover{
+    border-bottom: 1.5px solid #EF233C;
+    border-radius: 0;
+}
+
+.profile-hover{
+    color: white;
+}
+
+.profile-hover:hover{
+    color: #2B2D42;
+}
+
+.btn-col-1{
+    background-color: #fff;
+    color: #2B2D42;
+}
+
+.btn-col-1:hover{
+    background-color: #2B2D42;
+    color: #fff;
+}
+
+.btn-col-2{
+    background-color: #EF233C;
+    color: #fff;
+}
+
+.btn-col-2:hover{
+    background-color: #2B2D42;
+    color: #fff;
+}
+
+.btn-col-3{
+    background-color: #2B2D42;
+    color: #fff;
+}
+
+.btn-col-3:hover{
+    background-color: #fff;
+    color: #2B2D42;
+}
+
+.div_Profile {
+    margin-left: 5rem;
+    margin-top: 10rem;
+}
+
+.pad{
+    padding-left: 1.7rem;
+}
+
+.btn-profile {
+    padding: 0.5rem 2rem;
+    font-size: 0.85rem;
+    font-weight: 100;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 0rem;
+}
+
+.bor-col{
+    border: 3px solid #2B2D42;
+}
